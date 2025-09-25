@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Weather Detecting App**
 
-- 🌱 I’m currently learning **Django Framework in Python, Backend**
+- 🌱 I’m currently learning **Django Framework + React + Tailwind CSS**
 
 - 👯 I’m looking to collaborate on **Basic & Advance Projects of Python**
 
-- 🤝 I’m looking for help with **Python**
+- 🤝 I am interested in **Backend Development, APIs, Databases**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shashankkumar05](https://github.com/shashankkumar05)
 
