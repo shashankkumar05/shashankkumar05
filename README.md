@@ -15,9 +15,7 @@ modern engineering practices.
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=shashankkumar05&style=for-the-badge&color=blue"/>{=html}
-<img src="https://img.shields.io/github/followers/shashankkumar05?style=for-the-badge"/>{=html}
-<img src="https://img.shields.io/github/stars/shashankkumar05?style=for-the-badge"/>{=html}
+
 
 
 </p>
