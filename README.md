@@ -1,33 +1,192 @@
-<h1 align="center">Hi there, I'm Shashank Kumar 👋</h1>
-<h3 align="center">A passionate Full-Stack Web Developer | Turning ideas into powerful digital experiences</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+🌌 Shashank Kumar | Full Stack Web Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankkumar05&label=Profile%20views&color=0e75b6&style=flat" alt="shashankkumar05" /> </p>
 
-- 🔭 I’m currently working on **Weather Detecting App**
+Building scalable web applications with Python, Django, React.js and
+modern engineering practices.
 
-- 🌱 I’m currently learning **Django Framework + React **
 
-- 👯 I’m looking to collaborate on **Basic & Advance Projects of Python**
 
-- 🤝 I am interested in **Backend Development, APIs, Databases**
+<p align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/shashankkumar05](https://github.com/shashankkumar05)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=7AA2F7&center=true&vCenter=true&width=900&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React.js;Open+Source+Learner;Future+Software+Engineer"/>{=html}
 
-- 💬 Ask me about **Frontend, Backend, Database And APIs**
 
-- 📫 How to reach me **kumarshashank3185@gmail.com**
-
-- ⚡ Fun fact **I Think I Am Quick Learner And Fully Motivated Person.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@shashankpa1377" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shashankpa1377" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shashank kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank kumar" height="30" width="40" /></a>
-<a href="https://fb.com/shashank pandey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shashank pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/shashankpandeyy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashankpandeyy_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
 
+<img src="https://komarev.com/ghpvc/?username=shashankkumar05&style=for-the-badge&color=blue"/>{=html}
+<img src="https://img.shields.io/github/followers/shashankkumar05?style=for-the-badge"/>{=html}
+<img src="https://img.shields.io/github/stars/shashankkumar05?style=for-the-badge"/>{=html}
+
+
+</p>
+
+
+👨‍💻 About Me
+
+
+🎓 B.Tech (Information Technology), Oriental Institute of Science and Technology
+
+📍 Bhopal, India
+
+💡 Passionate about backend engineering and full stack development.
+
+🚀 Preparing for Software Engineer roles.
+
+🌱 Learning System Design, AI Engineering, Cloud and DevOps.
+
+
+
+⚙️ Tech Stack
+
+Languages
+
+Python
+
+
+Frontend
+
+Frontend
+
+
+Backend
+
+Backend
+
+
+Database
+
+Database
+
+
+Tools
+
+Tools
+
+
+
+🚀 Featured Projects
+
+
+  Project                 Highlights              Stack
+
+
+
+  COVID-19 Awareness      Live API integration,   React, JavaScript
+                          responsive dashboard    
+
+
+  Rock Paper Scissors     Interactive browser     HTML, CSS, JavaScript
+                      game                    
+
+
+
+
+📜 Certifications
+
+
+Introduction to Python Fundamentals
+
+Introduction to Modern Web Development
+
+Introduction to Generative AI
+
+AI Data Engineering Analyst
+
+
+
+📈 GitHub Dashboard
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashankkumar05&show_icons=true&theme=tokyonight"/>{=html}
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=shashankkumar05&theme=tokyonight"/>{=html}
+
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankkumar05&layout=compact&theme=tokyonight"/>{=html}
+
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shashankkumar05&theme=tokyonight&row=2&column=4"/>{=html}
+
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shashankkumar05&theme=tokyo-night"/>{=html}
+
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashankkumar05&theme=tokyonight"/>{=html}
+
+
+</p>
+
+
+🧠 Currently Exploring
+
+
+AI Agents
+
+RAG Systems
+
+LLM Engineering
+
+Docker
+
+Kubernetes
+
+CI/CD
+
+System Design
+
+Distributed Systems
+
+
+
+🏆 Engineering Goals
+
+
+Build production-ready Django applications
+
+Master REST API design
+
+Learn scalable backend architecture
+
+Contribute to open source
+
+Crack product-based company interviews
+
+
+
+🐍 Contribution Snake
+
+https://raw.githubusercontent.com/shashankkumar05/shashankkumar05/output/github-contribution-grid-snake-dark.svg
+
+
+📬 Connect
+
+
+GitHub: https://github.com/shashankkumar05
+
+LinkedIn: https://linkedin.com/in/shashank-kumar-7b796528a
+
+Email: kumarshashank3185@gmail.com
+
+
+
+
+"Consistency beats intensity. Every commit is one step closer to
+mastery."
