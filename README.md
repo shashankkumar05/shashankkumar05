@@ -23,35 +23,6 @@ modern technologies and continuous learning.
 
 ---
 
-# 💫 About Me
-
-```yaml
-Name: Shashank Kumar
-
-Location: Bhopal, India
-
-Role: Full Stack Web Developer
-
-Education:
-Bachelor of Technology
-Information Technology
-
-CGPA:
-7.59 (Honours)
-
-Current Focus:
-- Django
-- React.js
-- REST APIs
-- Python
-- MySQL
-
-Career Goal:
-Software Engineer
-(Product Based Company)
-
-```
-
 # 🌍 Portfolio
 
 ### GitHub
@@ -77,18 +48,6 @@ kumarshashank3185@gmail.com
 🚀 I believe consistency beats motivation.
 
 ⚡ Every project teaches something new.
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Django
-
-⬜ Deploy Full Stack Projects
-
-⬜ Contribute to Open Source
-
-⬜ Get Software Engineer Role
 
 ---
 
@@ -336,48 +295,6 @@ kumarshashank3185@gmail.com
 
 ---
 
-# 🎖️ Career Achievements
-
-✅ Built Full Stack Web Applications
-
-✅ Developed REST APIs
-
-✅ Integrated Third-Party APIs
-
-✅ Responsive UI Development
-
-✅ Strong Foundation in Python
-
-✅ Git & GitHub Workflow
-
-✅ Continuous Learning Mindset
-
----
-
-# 🎯 2026 Career Roadmap
-
-```text
-Python Mastery              ██████████ 100%
-
-Django                      ███████░░░ 70%
-
-React.js                    ███████░░░ 70%
-
-REST APIs                   ████████░░ 80%
-
-MySQL                       ██████░░░░ 60%
-
-Docker                      ███░░░░░░░ 30%
-
-Kubernetes                  ██░░░░░░░░ 20%
-
-System Design               ███░░░░░░░ 30%
-
-Cloud                       ██░░░░░░░░ 20%
-```
-
----
-
 # 🌐 Let's Connect
 
 <p align="center">
@@ -411,24 +328,6 @@ Cloud                       ██░░░░░░░░ 20%
 **If you like my work, don't forget to ⭐ my repositories.**
 
 🚀 Happy Coding!
-
----
-
----
-
-# 🎯 Long-Term Vision
-
-✅ Become a Software Engineer at a Product-Based Company
-
-✅ Build scalable backend systems
-
-✅ Master Full Stack Development
-
-✅ Contribute to Open Source
-
-✅ Learn Cloud-Native Architecture
-
-✅ Explore AI-powered Applications
 
 ---
 
@@ -492,35 +391,6 @@ Cloud                       ██░░░░░░░░ 20%
 | 🌐 Modern Web Development | ✅ |
 | 🤖 Generative AI | ✅ |
 | 📊 AI Data Engineering Analyst | ✅ |
-
----
-
-# 💬 Personal Motto
-
-> **"Success in software engineering is built one commit, one bug fix, and one lesson at a time."**
-
----
-
-<div align="center">
-
-## 🚀 Thanks for Visiting!
-
-### Let's build something amazing together.
-
-⭐ **Don't forget to follow my GitHub profile!**
-
-</div>
----
-
-# 🌌 Beyond Code
-
-<div align="center">
-
-### 💭 My Engineering Mission
-
-*"I believe software is more than writing code. It is about solving real problems, creating meaningful experiences, and building technology that improves people's lives."*
-
-</div>
 
 ---
 
