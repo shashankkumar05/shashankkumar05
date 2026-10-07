@@ -25,8 +25,6 @@ modern technologies, and continuous learning.
 
 # 🚀 Thanks for visiting my GitHub!
 
-### ⭐ If you like my work, consider starring my repositories.
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:1A1B27&height=150&section=footer&text=Happy%20Coding!&fontColor=ffffff&fontSize=35"/>
 
 </div>
