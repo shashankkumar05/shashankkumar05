@@ -23,22 +23,6 @@ modern technologies, and continuous learning.
 
 ---
 
-# 🌍 Portfolio
-
-### GitHub
-
-https://github.com/shashankkumar05
-
-### LinkedIn
-
-https://linkedin.com/in/shashank-kumar-7b796528a
-
-### Email
-
-kumarshashank3185@gmail.com
-
----
-
 # 🚀 Thanks for visiting my GitHub!
 
 ### ⭐ If you like my work, consider starring my repositories.
