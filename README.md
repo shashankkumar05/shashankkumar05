@@ -39,18 +39,6 @@ kumarshashank3185@gmail.com
 
 ---
 
-# 🧠 Fun Facts
-
-💻 I enjoy building full-stack applications.
-
-📚 I love learning new technologies.
-
-🚀 I believe consistency beats motivation.
-
-⚡ Every project teaches something new.
-
----
-
 # 🚀 Thanks for visiting my GitHub!
 
 ### ⭐ If you like my work, consider starring my repositories.
